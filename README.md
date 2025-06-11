@@ -108,3 +108,5 @@ Licence
 
 Ce projet est libre d’usage dans un cadre pédagogique.
 
+
+Lien vidéo : https://teams.microsoft.com/l/meetingrecap?driveId=b%210mK5ibnpf0u4lu-L5rHhxtQOIykBAFZNlSHM9MBHaA5kpc6l_CArT7zO3MkJ_Nt2&driveItemId=01WJMBLM6UK5OY6S3B25FILYTV3R4HTQH6&sitePath=https%3A%2F%2Fensup-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Flucas_varsavaux_ensitech_eu%2FEdRXXY9LYddKheJ13Hh5wP4BaPlj790rPnpK_1fd5Twi5g&fileUrl=https%3A%2F%2Fensup-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Flucas_varsavaux_ensitech_eu%2FEdRXXY9LYddKheJ13Hh5wP4BaPlj790rPnpK_1fd5Twi5g&threadId=19%3Ameeting_MmQ4YzhkNGItNzliNy00YmRjLTkxNDYtN2ZiMTBjNDBkZjJi%40thread.v2&organizerId=78bb88d2-4cb1-40a4-8203-c95963549539&tenantId=9840a2a0-6ae1-4688-b03d-d2ec291be0f9&callId=eb4ea303-6bac-4070-9fd8-e52d5203f31d&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet
