@@ -102,3 +102,14 @@ Prérequis
      Auteur
 
 Lucas — github.com/Lucas91420
+
+
+Licence
+
+Ce projet est libre d’usage dans un cadre pédagogique.
+
+
+---
+
+Souhaites-tu que je t’envoie également un `.gitignore` adapté pour ton projet Java + Docker ?
+
